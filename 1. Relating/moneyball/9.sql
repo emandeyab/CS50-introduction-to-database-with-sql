@@ -1,0 +1,11 @@
+SELECT "name", ROUND(AVG("salary"), 2) AS "average_salary"
+FROM "teams"
+JOIN "salaries" ON "teams"."id" = "salaries"."team_id"
+WHERE
+	"salaries"."year" = 2001
+GROUP BY
+	"name"
+ORDER BY
+	"average_salary"
+LIMIT
+	5;
