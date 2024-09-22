@@ -3,7 +3,7 @@ This course provides a comprehensive understanding of how to work with relationa
 
 ## Course Overview
 
-- **Querying**: Master the fundamental operations of interacting with data in relational databases through Create, Read, Update, and Delete (CRUD) operations.
+- **Querying**: Master the fundamental operations of interacting with data in relational databases through Create, Read, Update, and Delete.
 - **Relating**: Design tables with appropriate data types, constraints, and relationships to effectively represent real-world entities.
 - **Designing**: Understand how to eliminate redundancies and reduce errors through data normalization techniques.
 - **Writing**: Utilize primary and foreign keys to join related tables and extract meaningful insights from your data.
