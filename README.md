@@ -3,16 +3,15 @@ This course provides a comprehensive understanding of how to work with relationa
 
 ## Course Overview
 
-- **Create, Read, Update, and Delete (CRUD)**: Master the fundamental operations of interacting with data in relational databases.
-- **Model Real-World Entities**: Design tables with appropriate data types, constraints, and relationships to represent real-world scenarios effectively.
-- **Normalize Data**: Understand how to eliminate redundancies and reduce errors through data normalization techniques.
-- **Join Tables**: Utilize primary and foreign keys to link related tables and extract meaningful insights from your data.
-- **Automate Searches**: Use views to simplify complex queries and enhance usability.
-- **Optimize Performance**: Implement indexes to expedite data retrieval and improve overall performance.
-- **Scale Databases**: Transition from SQLite to PostgreSQL and MySQL to explore scalability options.
-- **Connect SQL with Other Languages**: Learn how to integrate SQL with programming languages like Python and Java.
+- **Querying**: Master the fundamental operations of interacting with data in relational databases through Create, Read, Update, and Delete (CRUD) operations.
+- **Relating**: Design tables with appropriate data types, constraints, and relationships to effectively represent real-world entities.
+- **Designing**: Understand how to eliminate redundancies and reduce errors through data normalization techniques.
+- **Writing**: Utilize primary and foreign keys to join related tables and extract meaningful insights from your data.
+- **Viewing**: Use views to automate searches, simplifying complex queries and enhancing usability.
+- **Optimizing**: Implement indexes to expedite data retrieval and improve overall performance.
+- **Scaling**: Transition from SQLite to PostgreSQL and MySQL to explore scalability options and connect SQL with programming languages like Python and Java.
 
-## Topics Covered
+## Topics Covered and Problem sets
 
 1. **Querying**
    - Cyberchase
